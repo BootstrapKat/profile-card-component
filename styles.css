@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+    max-width: 100%;
+    background-color: hsl(185, 75%, 39%);
+}
+
+.background {
+    overflow: hidden;
+}
+.firstCircle {
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+}
+
+.secondCircle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
