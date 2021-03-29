@@ -5,8 +5,9 @@ body {
 }
 
 .background {
-    overflow: hidden;
+    display: block;
 }
+
 .firstCircle {
     position: absolute;
     bottom: 50%;
